@@ -1,0 +1,729 @@
+﻿Log file open, 10/08/18 10:54:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: QuadTreeGeneration
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1927545803) SRandInit(-1927545803).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.345133
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.08-08.54.44:233][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.08-08.54.44:233][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.08-08.54.44:244][  0]LogInit: Computer: OLIVERSFARTYG
+[2018.10.08-08.54.44:244][  0]LogInit: User: Oliver
+[2018.10.08-08.54.44:244][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.10.08-08.54.44:244][  0]LogInit: High frequency timer resolution =3.904042 MHz
+[2018.10.08-08.54.44:245][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.10.08-08.54.44:245][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.08-08.54.44:245][  0]LogMemory: Process Physical Memory: 274.63 MB used, 274.63 MB peak
+[2018.10.08-08.54.44:245][  0]LogMemory: Process Virtual Memory: 271.78 MB used, 271.78 MB peak
+[2018.10.08-08.54.44:245][  0]LogMemory: Physical Memory: 5957.13 MB used,  2177.96 MB free, 8135.09 MB total
+[2018.10.08-08.54.44:245][  0]LogMemory: Virtual Memory: 616.56 MB used,  2177.96 MB free, 8388608.00 MB total
+[2018.10.08-08.54.44:595][  0]LogInit: Using OS detected language (sv-SE).
+[2018.10.08-08.54.44:595][  0]LogInit: Using OS detected locale (sv-SE).
+[2018.10.08-08.54.44:614][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the language.
+[2018.10.08-08.54.44:614][  0]LogTextLocalizationManager: No localization for 'sv-SE' exists, so 'en' will be used for the locale.
+[2018.10.08-08.54.45:052][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.10.08-08.54.45:052][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.10.08-08.54.45:052][  0]LogInit: Setting process to DPI aware
+[2018.10.08-08.54.45:759][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.10.08-08.54.45:759][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.10.08-08.54.45:759][  0]LogInit: Setting process to DPI aware
+[2018.10.08-08.54.46:165][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.08-08.54.46:303][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.10.08-08.54.46:303][  0]LogD3D11RHI:       4008/0/3811 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.10.08-08.54.46:303][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.08-08.54.46:310][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.08-08.54.46:311][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.08-08.54.46:311][  0]LogWindows: EnumDisplayDevices:
+[2018.10.08-08.54.46:311][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.10.08-08.54.46:311][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.10.08-08.54.46:311][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.10.08-08.54.46:311][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.10.08-08.54.46:311][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2018.10.08-08.54.46:311][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.10.08-08.54.46:312][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.10.08-08.54.46:312][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.10.08-08.54.46:312][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.10.08-08.54.46:312][  0]LogD3D11RHI:   Driver Version: 359.06 (internal:10.18.13.5906, unified:359.06)
+[2018.10.08-08.54.46:312][  0]LogD3D11RHI:      Driver Date: 11-24-2015
+[2018.10.08-08.54.46:312][  0]LogRHI: Texture pool is 2805 MB (70% of 4008 MB)
+[2018.10.08-08.54.46:321][  0]LogD3D11RHI: NvAPI_D3D_GetCurrentSLIState failed: 0xfffffff7
+[2018.10.08-08.54.46:321][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.08-08.54.46:341][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.08-08.54.46:345][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Intermediate/Shaders/WorkingDirectory/50944/).
+[2018.10.08-08.54.46:345][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Oliver/AppData/Local/Temp/UnrealShaderWorkingDir/8247FE0244F14DC104768192E2EB8453/'.
+[2018.10.08-08.54.46:346][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.08-08.54.47:735][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.08-08.54.47:794][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.08-08.54.47:854][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.08-08.54.47:917][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.08-08.54.47:975][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.08-08.54.48:035][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.08-08.54.48:100][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.08-08.54.48:158][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.08-08.54.48:226][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.08-08.54.48:290][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.10.08-08.54.48:354][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.10.08-08.54.48:427][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.10.08-08.54.48:488][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.10.08-08.54.48:549][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.10.08-08.54.48:691][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.10.08-08.54.48:691][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.10.08-08.54.48:748][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.08-08.54.48:804][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.08-08.54.48:958][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.08-08.54.48:999][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.08-08.54.49:059][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.08-08.54.49:120][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.08-08.54.49:219][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.08-08.54.49:297][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.08-08.54.49:297][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.08-08.54.50:197][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.08-08.54.50:597][  0]LogDerivedDataCache: Loaded boot cache 0.40s 112MB C:/Users/Oliver/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.10.08-08.54.50:597][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Oliver/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.10.08-08.54.50:598][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.08-08.54.50:598][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.08-08.54.50:598][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.08-08.54.50:598][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.08-08.54.50:628][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.08-08.54.50:730][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Oliver/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.08-08.54.50:763][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.08-08.54.50:764][  0]LogSlate: Using Freetype 2.6.0
+[2018.10.08-08.54.50:766][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.08-08.54.50:766][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.08-08.54.51:543][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.08-08.54.52:392][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.08-08.54.52:454][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.08-08.54.52:454][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.08-08.54.52:454][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.08-08.54.52:454][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.10.08-08.54.52:454][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.10.08-08.54.52:509][  0]LogNetVersion: QuadTreeGeneration , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3427364495)
+[2018.10.08-08.54.52:728][  0]LogAssetRegistry: FAssetRegistry took 0.0246 seconds to start up
+[2018.10.08-08.54.53:506][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.036793 seconds
+[2018.10.08-08.54.53:512][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.10.08-08.54.53:512][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.10.08-08.54.53:512][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.08-08.54.53:572][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.10.08-08.54.58:403][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.08-08.54.58:711][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.08-08.54.59:763][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.10.08-08.55.00:486][  0]SourceControl: Source control is disabled
+[2018.10.08-08.55.00:486][  0]SourceControl: Source control is disabled
+[2018.10.08-08.55.00:580][  0]SourceControl: Source control is disabled
+[2018.10.08-08.55.00:681][  0]SourceControl: Source control is disabled
+[2018.10.08-08.55.01:961][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.08-08.55.02:333][  0]LogOcInput: OculusInput pre-init called
+[2018.10.08-08.55.02:917][  0]LogEngine: Initializing Engine...
+[2018.10.08-08.55.06:725][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.10.08-08.55.07:174][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.08-08.55.07:175][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.08-08.55.07:374][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.08-08.55.08:549][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.08-08.55.12:588][  0]LogInit: FAudioDevice initialized.
+[2018.10.08-08.55.12:947][  0]LogDerivedDataCache: Saved boot cache 0.36s 112MB C:/Users/Oliver/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.10.08-08.55.12:972][  0]LogInit: Texture streaming: Enabled
+[2018.10.08-08.55.13:118][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.08-08.55.13:495][  0]LogInit: Transaction tracking system initialized
+[2018.10.08-08.55.13:955][  0]BlueprintLog: New page: Editor Load
+[2018.10.08-08.55.15:549][  0]LocalizationService: Localization service is disabled
+[2018.10.08-08.55.17:141][  0]LogConsoleResponse: Display: 
+[2018.10.08-08.55.17:494][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.08-08.55.17:494][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.08-08.55.17:494][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.08-08.55.18:014][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Content/' took 0.02s
+[2018.10.08-08.55.18:413][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Plane'
+[2018.10.08-08.55.18:413][  0]LogLinker: Warning: Can't find file '/Engine/BasicShapes/Plane'
+[2018.10.08-08.55.18:413][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Plane.Plane'
+[2018.10.08-08.55.19:199][  0]SourceControl: Source control is disabled
+[2018.10.08-08.55.19:201][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.08-08.55.19:203][  0]LightingResults: New page: Lighting Build
+[2018.10.08-08.55.19:253][  0]MapCheck: New page: Map Check
+[2018.10.08-08.55.19:253][  0]LightingResults: New page: Lighting Build
+[2018.10.08-08.55.19:381][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.10.08-08.55.19:402][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.08-08.55.19:418][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.08-08.55.19:468][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.993ms to complete.
+[2018.10.08-08.55.19:468][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.268
+[2018.10.08-08.55.20:132][  0]LogCollectionManager: Loaded 0 collections in 0.001973 seconds
+[2018.10.08-08.55.20:227][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Collections/' took 0.01s
+[2018.10.08-08.55.20:227][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Content/Developers/Oliver/Collections/' took 0.01s
+[2018.10.08-08.55.20:227][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Content/Collections/' took 0.01s
+[2018.10.08-08.55.20:227][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.08-08.55.20:237][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2363 classes and 519 folders.
+[2018.10.08-08.55.20:318][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.08-08.55.20:427][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.08-08.55.20:504][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.10.08-08.55.20:733][  0]LogSlate: Took 0.000851 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.08-08.55.20:737][  0]LogSlate: Took 0.000968 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.08-08.55.20:745][  0]LogSlate: Took 0.001117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.08-08.55.20:892][  0]LogRenderer: Reallocating scene render targets to support 1236x572 Format 10 NumSamples 1 (Frame:1).
+[2018.10.08-08.55.21:298][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.10.08-08.55.21:298][  0]LogLoad: (Engine Initialization) Total time: 42.98 seconds
+[2018.10.08-08.55.21:298][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.08-08.55.21:299][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.10.08-08.55.21:299][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.10.08-08.55.21:342][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.08-08.55.21:398][  0]LogSlate: Took 0.001380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.08-08.55.21:422][  1]LogAssetRegistry: Asset discovery search completed in 28.7140 seconds
+[2018.10.08-08.55.21:428][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.10.08-08.55.21:428][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000140 seconds (updated 0 objects)
+[2018.10.08-12.14.13:937][163]LogSlate: Took 0.001719 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.08-12.14.13:987][163]LogAssetTools: Warning: Failed to import 'C:\Users\Oliver\Documents\Unreal Projects\Game\Blueprints\A-Star\HeuristicFormula.T3D'. Unknown extension 'T3D'.
+[2018.10.08-12.14.13:989][163]LogSlate: Took 0.000497 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.10.08-12.14.13:999][163]LogAssetTools: Warning: Failed to import 'C:\Users\Oliver\Documents\Unreal Projects\Game\Blueprints\A-Star\PathFinder.T3D'. Unknown extension 'T3D'.
+[2018.10.08-12.14.14:008][163]LogAssetTools: Warning: Failed to import 'C:\Users\Oliver\Documents\Unreal Projects\Game\Blueprints\A-Star\PathNode.T3D'. Unknown extension 'T3D'.
+[2018.10.08-12.24.24:029][821]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.032
+[2018.10.08-12.24.24:031][821]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A-Star/HeuristicFormula] ([1] browsable assets)...
+[2018.10.08-12.24.24:031][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/A-Star/HeuristicFormula]
+[2018.10.08-12.24.24:380][821]LogSavePackage: Save=155.99ms
+[2018.10.08-12.24.24:380][821]LogSavePackage: Moving '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/HeuristicFormula_Auto17E5E27E3408B31EF83904D8381AE8694.tmp' to '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/A-Star/HeuristicFormula_Auto1.uasset'
+[2018.10.08-12.24.24:382][821]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/A-Star/HeuristicFormula_Auto1.uasset
+[2018.10.08-12.24.24:384][821]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A-Star/PathFinder] ([1] browsable assets)...
+[2018.10.08-12.24.24:384][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/A-Star/PathFinder]
+[2018.10.08-12.24.24:994][821]LogSavePackage: Save=160.92ms
+[2018.10.08-12.24.24:994][821]LogSavePackage: Moving '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/PathFinder_Auto15CE359194BDBA5EE48FF2CABBD78542C.tmp' to '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/A-Star/PathFinder_Auto1.uasset'
+[2018.10.08-12.24.24:998][821]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/A-Star/PathFinder_Auto1.uasset
+[2018.10.08-12.24.24:999][821]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A-Star/PathNode] ([1] browsable assets)...
+[2018.10.08-12.24.24:999][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/A-Star/PathNode]
+[2018.10.08-12.24.25:222][821]LogSlate: Took 0.003550 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.08-12.24.25:521][821]LogSavePackage: Save=292.15ms
+[2018.10.08-12.24.25:521][821]LogSavePackage: Moving '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/PathNode_Auto1DF11A99845971CDCA42972BA8E8E8D93.tmp' to '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/A-Star/PathNode_Auto1.uasset'
+[2018.10.08-12.24.25:525][821]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/A-Star/PathNode_Auto1.uasset
+[2018.10.08-12.24.25:525][821]LogFileHelpers: Auto-saving content packages took 1.495
+[2018.10.08-12.27.50:593][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A-Star/HeuristicFormula" FILE="../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Content/A-Star/HeuristicFormula.uasset" SILENT=true
+[2018.10.08-12.27.50:903][787]LogSavePackage: Save=307.11ms
+[2018.10.08-12.27.50:904][787]LogSavePackage: Moving '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/HeuristicFormula0CEA415B41A106415DA158901DF2CE99.tmp' to '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Content/A-Star/HeuristicFormula.uasset'
+[2018.10.08-12.27.51:119][787]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Content/A-Star/HeuristicFormula.uasset
+[2018.10.08-12.27.58:366][ 91]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0049 seconds. Added 116 classes and 0 folders.
+[2018.10.08-12.28.01:433][245]LogRenderer: Reallocating scene render targets to support 1236x712 Format 10 NumSamples 1 (Frame:78).
+[2018.10.08-12.38.51:573][899]LogSlate: Took 0.003015 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.08-12.39.02:479][560]LogSlate: Took 0.001662 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.08-12.39.16:843][509]LogLinker: Can't find file '/Game/Blueprints/A-Star/PathNode'
+[2018.10.08-12.39.16:843][509]LogLinker: Can't find file '/Game/Blueprints/A-Star/PathNode'
+[2018.10.08-12.39.16:848][509]LogBlueprint: Warning: [PathNode] 'X' variable not found. Base class was probably changed. /Game/A-Star/PathNode.PathNode
+[2018.10.08-12.39.16:848][509]LogBlueprint: Warning: [PathNode] 'Y' variable not found. Base class was probably changed. /Game/A-Star/PathNode.PathNode
+[2018.10.08-12.39.16:848][509]LogBlueprint: Warning: [PathNode] 'PX' variable not found. Base class was probably changed. /Game/A-Star/PathNode.PathNode
+[2018.10.08-12.39.16:848][509]LogBlueprint: Warning: [PathNode] 'PY' variable not found. Base class was probably changed. /Game/A-Star/PathNode.PathNode
+[2018.10.08-12.39.27:515][485]LogSlate: Took 0.001241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.10.08-12.41.55:617][304]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.025
+[2018.10.08-12.41.55:619][304]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A-Star/PathNode] ([1] browsable assets)...
+[2018.10.08-12.41.55:619][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/A-Star/PathNode]
+[2018.10.08-12.41.55:907][304]LogSavePackage: Save=234.48ms
+[2018.10.08-12.41.55:907][304]LogSavePackage: Moving '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/PathNode_Auto26AB7F78D4DE56A82AFA88A8E4D364BE9.tmp' to '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/A-Star/PathNode_Auto2.uasset'
+[2018.10.08-12.41.55:909][304]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/A-Star/PathNode_Auto2.uasset
+[2018.10.08-12.41.55:909][304]LogFileHelpers: Auto-saving content packages took 0.291
+[2018.10.08-12.52.37:178][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A-Star/PathNode" FILE="../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Content/A-Star/PathNode.uasset" SILENT=true
+[2018.10.08-12.52.37:272][208]LogSavePackage: Save=92.32ms
+[2018.10.08-12.52.37:272][208]LogSavePackage: Moving '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/PathNode90208C834D6D4BCD78B3CC812B22165F.tmp' to '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Content/A-Star/PathNode.uasset'
+[2018.10.08-12.52.37:354][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Content/A-Star/PathNode.uasset
+[2018.10.08-12.52.38:439][312]BlueprintLog: New page: Compile PathNode
+[2018.10.08-12.55.25:765][126]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.022
+[2018.10.08-12.55.25:768][126]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A-Star/PathNode] ([1] browsable assets)...
+[2018.10.08-12.55.25:768][126]OBJ SavePackage: Finished generating thumbnails for package [/Game/A-Star/PathNode]
+[2018.10.08-12.55.26:893][126]LogSavePackage: Save=272.53ms
+[2018.10.08-12.55.26:895][126]LogSavePackage: Moving '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/PathNode_Auto31DDDEC254532C478E93DD49A98F1AB33.tmp' to '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/A-Star/PathNode_Auto3.uasset'
+[2018.10.08-12.55.26:897][126]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/A-Star/PathNode_Auto3.uasset
+[2018.10.08-12.55.26:897][126]LogFileHelpers: Auto-saving content packages took 1.131
+[2018.10.08-13.05.27:446][867]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.015
+[2018.10.08-13.05.27:448][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A-Star/PathNode] ([1] browsable assets)...
+[2018.10.08-13.05.27:448][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/A-Star/PathNode]
+[2018.10.08-13.05.28:474][867]LogSavePackage: Save=227.49ms
+[2018.10.08-13.05.28:476][867]LogSavePackage: Moving '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/PathNode_Auto47AFC2FA545877D8568818ABF913D27D4.tmp' to '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/A-Star/PathNode_Auto4.uasset'
+[2018.10.08-13.05.28:479][867]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/A-Star/PathNode_Auto4.uasset
+[2018.10.08-13.05.28:479][867]LogFileHelpers: Auto-saving content packages took 1.032
+[2018.10.08-13.51.18:768][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/A-Star/PathNode" FILE="../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Content/A-Star/PathNode.uasset" SILENT=true
+[2018.10.08-13.51.19:678][332]LogSavePackage: Save=300.06ms
+[2018.10.08-13.51.19:678][332]LogSavePackage: Moving '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/PathNodeDB2BC6674F07070009CC40AE244F0468.tmp' to '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Content/A-Star/PathNode.uasset'
+[2018.10.08-13.51.19:681][332]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Content/A-Star/PathNode.uasset
+[2018.10.08-17.17.17:854][ 32]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.08-17.17.22:777][ 32]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.10.08-17.17.22:779][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.08-17.17.22:793][ 32]PIE: New page: PIE session: Minimal_Default (Oct 8, 2018, 9:17:22 PM)
+[2018.10.08-17.17.22:794][ 32]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2018.10.08-17.17.22:804][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010138s)
+[2018.10.08-17.17.22:807][ 32]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.10.08-17.17.22:813][ 32]LogPlayLevel: PIE: World Init took: (0.008434s)
+[2018.10.08-17.17.22:813][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.019636s)
+[2018.10.08-17.17.22:861][ 32]LogInit: XAudio2 using 'Headset Earphone (HyperX 7.1 Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.08-17.17.23:381][ 32]LogInit: FAudioDevice initialized.
+[2018.10.08-17.17.23:725][ 32]LogLoad: Game class is 'DG_GameMode_C'
+[2018.10.08-17.17.23:741][ 32]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2018.10.08-19.17.23
+[2018.10.08-17.17.23:742][ 32]LogWorld: Bringing up level for play took: 0.002266
+[2018.10.08-17.17.23:901][ 32]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0023 seconds. Added 11 classes and 0 folders.
+[2018.10.08-17.17.26:432][ 32]LogScriptCore: Warning: Script Msg: Attempted to access index 9215 from array 'CornerRotationArray' of length 9215 in '/Game/DungeonGenerator/Grid.Grid_C'!
+[2018.10.08-17.17.26:457][ 32]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 2.828
+[2018.10.08-17.17.26:462][ 32]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.10.08-17.17.26:504][ 32]LogMaterial: Warning: Material /Game/DungeonGenerator/Meshes/FloorRandom.FloorRandom missing bUsedWithInstancedStaticMeshes=True! Default Material will be used in game.
+[2018.10.08-17.17.26:504][ 32]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2018.10.08-17.17.26:504][ 32]LogMaterial: Warning: Material /Game/DungeonGenerator/Meshes/Wall_1_Section1.Wall_1_Section1 missing bUsedWithInstancedStaticMeshes=True! Default Material will be used in game.
+[2018.10.08-17.17.26:504][ 32]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2018.10.08-17.17.26:505][ 32]LogMaterial: Warning: Material /Game/DungeonGenerator/Meshes/Wall_Corner1.Wall_Corner1 missing bUsedWithInstancedStaticMeshes=True! Default Material will be used in game.
+[2018.10.08-17.17.26:505][ 32]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2018.10.08-17.17.26:505][ 32]LogMaterial: Warning: Material /Game/DungeonGenerator/Meshes/Wall_Inside_Corner1.Wall_Inside_Corner1 missing bUsedWithInstancedStaticMeshes=True! Default Material will be used in game.
+[2018.10.08-17.17.26:505][ 32]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2018.10.08-17.17.26:505][ 32]LogMaterial: Warning: Material /Game/DungeonGenerator/Meshes/Wall_Cap1.Wall_Cap1 missing bUsedWithInstancedStaticMeshes=True! Default Material will be used in game.
+[2018.10.08-17.17.26:505][ 32]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2018.10.08-17.17.26:505][ 32]LogMaterial: Warning: Material /Game/DungeonGenerator/Meshes/UnderGroundFillerMat.UnderGroundFillerMat missing bUsedWithInstancedStaticMeshes=True! Default Material will be used in game.
+[2018.10.08-17.17.26:505][ 32]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2018.10.08-17.17.33:685][486]LogEditorViewport: Clicking on Actor (LMB): Grid_C (Grid)
+[2018.10.08-17.17.34:253][508]LogEditorViewport: Clicking on Actor (LMB): Grid_C (Grid)
+[2018.10.08-17.17.48:560][179]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.10.08-17.17.48:650][179]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2018.10.08-17.19.07:367][943]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.022
+[2018.10.08-17.19.07:370][943]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DungeonGenerator/Grid] ([1] browsable assets)...
+[2018.10.08-17.19.07:386][943]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DungeonGenerator/Grid.Grid]
+[2018.10.08-17.19.07:386][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/DungeonGenerator/Grid]
+[2018.10.08-17.19.09:075][943]LogSavePackage: Save=1444.51ms
+[2018.10.08-17.19.09:076][943]LogSavePackage: Moving '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Grid_Auto5BE9F2367428C8AD70AA519A3B8CFE372.tmp' to '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/DungeonGenerator/Grid_Auto5.uasset'
+[2018.10.08-17.19.09:079][943]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/DungeonGenerator/Grid_Auto5.uasset
+[2018.10.08-17.19.09:079][943]LogFileHelpers: Auto-saving content packages took 1.711
+[2018.10.09-08.35.23:943][414]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.573
+[2018.10.09-08.35.23:965][414]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DungeonGenerator/Grid] ([1] browsable assets)...
+[2018.10.09-08.35.24:007][414]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DungeonGenerator/Grid.Grid]
+[2018.10.09-08.35.24:007][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/DungeonGenerator/Grid]
+[2018.10.09-08.35.25:601][414]LogSavePackage: Save=1504.65ms
+[2018.10.09-08.35.25:601][414]LogSavePackage: Moving '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Grid_Auto63FE209CD402A07A2CD7100ADA9AA18A7.tmp' to '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/DungeonGenerator/Grid_Auto6.uasset'
+[2018.10.09-08.35.25:604][414]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/DungeonGenerator/Grid_Auto6.uasset
+[2018.10.09-08.35.25:605][414]LogFileHelpers: Auto-saving content packages took 1.653
+[2018.10.09-08.46.07:830][442]BlueprintLog: New page: Compile Grid
+[2018.10.09-08.49.35:236][146]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.083
+[2018.10.09-08.49.35:242][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DungeonGenerator/Grid] ([1] browsable assets)...
+[2018.10.09-08.49.35:268][146]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DungeonGenerator/Grid.Grid]
+[2018.10.09-08.49.35:268][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/DungeonGenerator/Grid]
+[2018.10.09-08.49.36:885][146]LogSavePackage: Save=1592.76ms
+[2018.10.09-08.49.36:885][146]LogSavePackage: Moving '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Grid_Auto7B9003712468F2ECFA8FCBC8A6B300800.tmp' to '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/DungeonGenerator/Grid_Auto7.uasset'
+[2018.10.09-08.49.36:888][146]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/DungeonGenerator/Grid_Auto7.uasset
+[2018.10.09-08.49.36:888][146]LogFileHelpers: Auto-saving content packages took 1.650
+[2018.10.09-08.51.15:137][ 80]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.10.09-09.46.46:763][750]BlueprintLog: New page: Compile Grid
+[2018.10.09-09.47.14:149][ 42]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.037
+[2018.10.09-09.47.14:154][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DungeonGenerator/Grid] ([1] browsable assets)...
+[2018.10.09-09.47.14:168][ 42]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DungeonGenerator/Grid.Grid]
+[2018.10.09-09.47.14:168][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/DungeonGenerator/Grid]
+[2018.10.09-09.47.15:840][ 42]LogSavePackage: Save=1621.54ms
+[2018.10.09-09.47.15:840][ 42]LogSavePackage: Moving '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Grid_Auto8BFE55E23465C38BCB837A6BDFDF7BBB7.tmp' to '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/DungeonGenerator/Grid_Auto8.uasset'
+[2018.10.09-09.47.15:843][ 42]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/DungeonGenerator/Grid_Auto8.uasset
+[2018.10.09-09.47.15:844][ 42]LogFileHelpers: Auto-saving content packages took 1.693
+[2018.10.09-09.57.25:383][910]LogLinker: Can't find file '/Game/Blueprints/A-Star/PathFinder'
+[2018.10.09-09.57.25:384][910]LogLinker: Can't find file '/Game/Blueprints/A-Star/PathFinder'
+[2018.10.09-09.57.25:387][910]LogBlueprint: Warning: [PathFinder] 'MapSize' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-09.59.38:774][346]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.031
+[2018.10.09-09.59.38:776][346]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A-Star/PathFinder] ([1] browsable assets)...
+[2018.10.09-09.59.38:776][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/A-Star/PathFinder]
+[2018.10.09-09.59.38:805][346]LogSavePackage: Save=28.11ms
+[2018.10.09-09.59.38:805][346]LogSavePackage: Moving '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/PathFinder_Auto9EABE6E8348C85E02BC3F068B297ACD40.tmp' to '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/A-Star/PathFinder_Auto9.uasset'
+[2018.10.09-09.59.38:806][346]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/A-Star/PathFinder_Auto9.uasset
+[2018.10.09-09.59.38:806][346]LogFileHelpers: Auto-saving content packages took 0.032
+[2018.10.09-10.01.28:919][393]LogClass: Warning: Type mismatch in InnerList of SKEL_PathFinder_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2018.10.09-10.03.13:270][623]LogProperty: Warning: WeakObjectProperty /Script/Engine.EdGraphPinType:PinSubCategoryObject: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/A-Star/PathNode.PathNode_C"',ContainerType=Array)'
+[2018.10.09-10.03.13:271][623]LogProperty: Warning: WeakObjectProperty /Script/Engine.EdGraphPinType:PinSubCategoryObject: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/A-Star/PathNode.PathNode_C"',ContainerType=Array)'
+[2018.10.09-10.03.13:273][623]LogProperty: Warning: WeakObjectProperty /Script/Engine.EdGraphPinType:PinSubCategoryObject: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/A-Star/PathNode.PathNode_C"',ContainerType=Array)'
+[2018.10.09-10.09.50:289][918]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.031
+[2018.10.09-10.09.50:291][918]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A-Star/PathFinder] ([1] browsable assets)...
+[2018.10.09-10.09.50:291][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/A-Star/PathFinder]
+[2018.10.09-10.09.50:345][918]LogSavePackage: Save=53.29ms
+[2018.10.09-10.09.50:345][918]LogSavePackage: Moving '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/PathFinder_Auto017AA161B4DF17D2C207494A06D61F543.tmp' to '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/A-Star/PathFinder_Auto0.uasset'
+[2018.10.09-10.09.50:346][918]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/A-Star/PathFinder_Auto0.uasset
+[2018.10.09-10.09.50:347][918]LogFileHelpers: Auto-saving content packages took 0.056
+[2018.10.09-10.10.55:517][372]LogBlueprint: Warning: [PathFinder] 'TempPFN' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.10.55:517][372]LogBlueprint: Warning: [PathFinder] 'TempPFN' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.10.55:517][372]LogBlueprint: Warning: [PathFinder] 'TempPFN' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.10.55:517][372]LogBlueprint: Warning: [PathFinder] 'TempPFN' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.10.55:517][372]LogBlueprint: Warning: [PathFinder] 'TempPFN' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:547][656]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:MacroGraph: unresolved reference to 'EdGraph'"OnCompare"',GraphBlueprint=Blueprint'"/Game/Blueprints/A-Star/PathFinder.PathFinder"',GraphGuid=4BD2B7984B9EEB27DC53FE9DD60B3360)'
+[2018.10.09-10.18.53:547][656]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Blueprints/A-Star/PathFinder.PathFinder"',GraphGuid=4BD2B7984B9EEB27DC53FE9DD60B3360)'
+[2018.10.09-10.18.53:553][656]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:MacroGraph: unresolved reference to 'EdGraph'"OnCompare"',GraphBlueprint=Blueprint'"/Game/Blueprints/A-Star/PathFinder.PathFinder"',GraphGuid=4BD2B7984B9EEB27DC53FE9DD60B3360)'
+[2018.10.09-10.18.53:553][656]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Blueprints/A-Star/PathFinder.PathFinder"',GraphGuid=4BD2B7984B9EEB27DC53FE9DD60B3360)'
+[2018.10.09-10.18.53:560][656]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Blueprints/A-Star/PathFinder.PathFinder"',GraphGuid=D45DE83747D34ABAC143DA847E334C11)'
+[2018.10.09-10.18.53:570][656]LogProperty: Warning: WeakObjectProperty /Script/Engine.EdGraphPinType:PinSubCategoryObject: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/A-Star/PathNode.PathNode_C"',ContainerType=Array)'
+[2018.10.09-10.18.53:573][656]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/A-Star/PathNode.PathNode_C"',MemberName="F",MemberGuid=A6F85B8E44449F234F57EC8D5520F302)'
+[2018.10.09-10.18.53:577][656]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Blueprints/A-Star/PathFinder.PathFinder"',GraphGuid=0C1A43864A8B73695FA8A6BF84E5C2BD)'
+[2018.10.09-10.18.53:578][656]LogProperty: Warning: WeakObjectProperty /Script/Engine.EdGraphPinType:PinSubCategoryObject: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/A-Star/PathNode.PathNode_C"',ContainerType=Array)'
+[2018.10.09-10.18.53:579][656]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Blueprints/A-Star/PathFinder.PathFinder"',GraphGuid=0C1A43864A8B73695FA8A6BF84E5C2BD)'
+[2018.10.09-10.18.53:579][656]LogProperty: Warning: WeakObjectProperty /Script/Engine.EdGraphPinType:PinSubCategoryObject: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/A-Star/PathNode.PathNode_C"',ContainerType=Array)'
+[2018.10.09-10.18.53:580][656]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Blueprints/A-Star/PathFinder.PathFinder"',GraphGuid=0C1A43864A8B73695FA8A6BF84E5C2BD)'
+[2018.10.09-10.18.53:581][656]LogProperty: Warning: WeakObjectProperty /Script/Engine.EdGraphPinType:PinSubCategoryObject: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/A-Star/PathNode.PathNode_C"',ContainerType=Array)'
+[2018.10.09-10.18.53:582][656]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Blueprints/A-Star/PathFinder.PathFinder"',GraphGuid=0C1A43864A8B73695FA8A6BF84E5C2BD)'
+[2018.10.09-10.18.53:582][656]LogProperty: Warning: WeakObjectProperty /Script/Engine.EdGraphPinType:PinSubCategoryObject: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/A-Star/PathNode.PathNode_C"',ContainerType=Array)'
+[2018.10.09-10.18.53:583][656]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Blueprints/A-Star/PathFinder.PathFinder"',GraphGuid=0C1A43864A8B73695FA8A6BF84E5C2BD)'
+[2018.10.09-10.18.53:584][656]LogProperty: Warning: WeakObjectProperty /Script/Engine.EdGraphPinType:PinSubCategoryObject: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/A-Star/PathNode.PathNode_C"',ContainerType=Array)'
+[2018.10.09-10.18.53:601][656]LogBlueprint: Warning: [PathFinder] 'P' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:601][656]LogBlueprint: Warning: [PathFinder] 'P' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:602][656]LogBlueprint: Warning: [PathFinder] 'p1' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:602][656]LogBlueprint: Warning: [PathFinder] 'p1' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:602][656]LogBlueprint: Warning: [PathFinder] 'p2' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:602][656]LogBlueprint: Warning: [PathFinder] 'p2' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:603][656]LogBlueprint: Warning: [PathFinder] 'Break' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:603][656]LogBlueprint: Warning: [PathFinder] 'Break' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:604][656]LogBlueprint: Warning: [PathFinder] 'Break' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:604][656]LogBlueprint: Warning: [PathFinder] 'PN' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:604][656]LogBlueprint: Warning: [PathFinder] 'PN' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:604][656]LogBlueprint: Warning: [PathFinder] 'P' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:604][656]LogBlueprint: Warning: [PathFinder] 'p1' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:604][656]LogBlueprint: Warning: [PathFinder] 'p1' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:604][656]LogBlueprint: Warning: [PathFinder] 'p2' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:604][656]LogBlueprint: Warning: [PathFinder] 'p2' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:604][656]LogBlueprint: Warning: [PathFinder] 'P' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:605][656]LogBlueprint: Warning: [PathFinder] 'P' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:605][656]LogBlueprint: Warning: [PathFinder] 'P' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:605][656]LogBlueprint: Warning: [PathFinder] 'P' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:606][656]LogBlueprint: Warning: [PathFinder] 'p1' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:606][656]LogBlueprint: Warning: [PathFinder] 'P' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:606][656]LogBlueprint: Warning: [PathFinder] 'P' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:606][656]LogBlueprint: Warning: [PathFinder] 'p2' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:606][656]LogBlueprint: Warning: [PathFinder] 'p1' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:606][656]LogBlueprint: Warning: [PathFinder] 'P' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:606][656]LogBlueprint: Warning: [PathFinder] 'p1' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:607][656]LogBlueprint: Warning: [PathFinder] 'P' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:607][656]LogBlueprint: Warning: [PathFinder] 'p2' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:607][656]LogBlueprint: Warning: [PathFinder] 'p2' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:607][656]LogBlueprint: Warning: [PathFinder] 'Break' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:607][656]LogBlueprint: Warning: [PathFinder] 'Break' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:607][656]LogBlueprint: Warning: [PathFinder] 'P' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:608][656]LogBlueprint: Warning: [PathFinder] 'PN' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:608][656]LogBlueprint: Warning: [PathFinder] 'P' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:608][656]LogBlueprint: Warning: [PathFinder] 'PN' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:608][656]LogBlueprint: Warning: [PathFinder] 'TResult' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:608][656]LogBlueprint: Warning: [PathFinder] 'TResult' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:608][656]LogBlueprint: Warning: [PathFinder] 'TResult' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:608][656]LogBlueprint: Warning: [PathFinder] 'TResult' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:608][656]LogBlueprint: Warning: [PathFinder] 'TResult' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:609][656]LogBlueprint: Warning: [PathFinder] 'ParentNode' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:609][656]LogBlueprint: Warning: [PathFinder] 'ParentNode' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:609][656]LogBlueprint: Warning: [PathFinder] 'ParentNode' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:609][656]LogBlueprint: Warning: [PathFinder] 'ParentNode' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.18.53:609][656]LogBlueprint: Warning: [PathFinder] 'F' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.29.15:009][900]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/A-Star/PathNode.PathNode_C"',MemberName="F",MemberGuid=A6F85B8E44449F234F57EC8D5520F302)'
+[2018.10.09-10.29.15:010][900]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Blueprints/A-Star/PathNode.PathNode_C"',MemberName="F",MemberGuid=A6F85B8E44449F234F57EC8D5520F302)'
+[2018.10.09-10.29.15:012][900]LogBlueprint: Warning: [PathFinder] 'F' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.29.15:015][900]LogBlueprint: Warning: [PathFinder] 'F' variable not found. Base class was probably changed. /Game/A-Star/PathFinder.PathFinder
+[2018.10.09-10.31.34:879][628]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.118
+[2018.10.09-10.31.34:882][628]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A-Star/PathFinder] ([1] browsable assets)...
+[2018.10.09-10.31.34:882][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/A-Star/PathFinder]
+[2018.10.09-10.31.35:085][628]LogSavePackage: Save=200.94ms
+[2018.10.09-10.31.35:085][628]LogSavePackage: Moving '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/PathFinder_Auto1F9A0F07A4DC36A170A87DF823735B1AB.tmp' to '../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/A-Star/PathFinder_Auto1.uasset'
+[2018.10.09-10.31.35:085][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Oliver/Documents/Unreal Projects/QuadTreeGeneration/Saved/Autosaves/Game/A-Star/PathFinder_Auto1.uasset
+[2018.10.09-10.31.35:086][628]LogFileHelpers: Auto-saving content packages took 0.205
+[2018.10.09-10.35.32:172][965]LogProperty: Warning: ObjectProperty /Script/Engine.GraphReference:GraphBlueprint: unresolved reference to 'Blueprint'"/Game/Blueprints/A-Star/PathFinder.PathFinder"',GraphGuid=4BD2B7984B9EEB27DC53FE9DD60B3360)'
+[2018.10.09-10.35.32:648][965]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.465 s
+[2018.10.09-10.35.32:648][965]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.09-10.35.32:648][965]LogOutputDevice: Error: 
+[2018.10.09-10.35.32:648][965]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 409]
+[2018.10.09-10.35.32:648][965]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'P' on node 'Get P' not reciprocally linked with pin 'p1' on node 'OnCompare'
+[2018.10.09-10.35.32:648][965]LogOutputDevice: Error: Stack: 
+[2018.10.09-10.35.32:648][965]LogOutputDevice: Error: [Callstack] 0x00000000CD4C2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.09-10.35.32:648][965]LogOutputDevice: Error: [Callstack] 0x00000000CD26123A UE4Editor-Core.dll!UnknownFunction []
+[2018.10.09-10.35.32:648][965]LogOutputDevice: Error: [Callstack] 0x00000000CD27B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.09-10.35.32:648][965]LogOutputDevice: Error: [Callstack] 0x00000000CAE7E5D3 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.09-10.35.32:648][965]LogOutputDevice: Error: [Callstack] 0x00000000CAE7E3F9 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.09-10.35.32:648][965]LogOutputDevice: Error: [Callstack] 0x00000000CAE7DD69 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.09-10.35.32:648][965]LogOutputDevice: Error: [Callstack] 0x00000000C866469F UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.09-10.35.32:648][965]LogOutputDevice: Error: [Callstack] 0x00000000C88376C9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.09-10.35.32:648][965]LogOutputDevice: Error: [Callstack] 0x00000000C864D3B3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.09-10.35.32:648][965]LogOutputDevice: Error: [Callstack] 0x00000000C639720D UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.09-10.35.32:648][965]LogOutputDevice: Error: [Callstack] 0x00000000C6396FEF UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.09-10.35.32:648][965]LogOutputDevice: Error: [Callstack] 0x00000000C6320FC1 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.09-10.35.32:648][965]LogOutputDevice: Error: [Callstack] 0x00000000C6325D26 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.09-10.35.32:648][965]LogOutputDevice: Error: [Callstack] 0x00000000D48D9636 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.09-10.35.32:648][965]LogOutputDevice: Error: [Callstack] 0x00000000D49183A0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.09-10.35.32:649][965]LogOutputDevice: Error: [Callstack] 0x00000000C72F1D7D UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.10.09-10.35.32:649][965]LogOutputDevice: Error: [Callstack] 0x00000000D48C63A1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.09-10.35.32:649][965]LogOutputDevice: Error: [Callstack] 0x00000000D489700E UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.09-10.35.32:649][965]LogOutputDevice: Error: [Callstack] 0x00000000D4898C16 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.09-10.35.32:649][965]LogOutputDevice: Error: [Callstack] 0x00000000D491988C UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.09-10.35.32:649][965]LogOutputDevice: Error: [Callstack] 0x00000000D490BEE8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.09-10.35.32:649][965]LogOutputDevice: Error: [Callstack] 0x00000000E623E28A UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.09-10.35.32:649][965]LogOutputDevice: Error: [Callstack] 0x00000000E6231A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.09-10.35.32:649][965]LogOutputDevice: Error: [Callstack] 0x00000000E62403EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.09-10.35.32:649][965]LogOutputDevice: Error: [Callstack] 0x00000000E622D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.09-10.35.32:649][965]LogOutputDevice: Error: [Callstack] 0x0000000077079BD1 USER32.dll!UnknownFunction []
+[2018.10.09-10.35.32:649][965]LogOutputDevice: Error: [Callstack] 0x00000000770798DA USER32.dll!UnknownFunction []
+[2018.10.09-10.35.32:649][965]LogOutputDevice: Error: [Callstack] 0x00000000E6241516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.09-10.35.32:649][965]LogOutputDevice: Error: [Callstack] 0x000000003F8E50C8 UE4Editor.exe!UnknownFunction []
+[2018.10.09-10.35.32:649][965]LogOutputDevice: Error: [Callstack] 0x000000003F8F5430 UE4Editor.exe!UnknownFunction []
+[2018.10.09-10.35.32:649][965]LogOutputDevice: Error: [Callstack] 0x000000003F8F54AA UE4Editor.exe!UnknownFunction []
+[2018.10.09-10.35.32:649][965]LogOutputDevice: Error: [Callstack] 0x000000003F902379 UE4Editor.exe!UnknownFunction []
+[2018.10.09-10.35.32:649][965]LogOutputDevice: Error: [Callstack] 0x000000003F903D57 UE4Editor.exe!UnknownFunction []
+[2018.10.09-10.35.32:649][965]LogOutputDevice: Error: [Callstack] 0x0000000076F559ED kernel32.dll!UnknownFunction []
+[2018.10.09-10.35.32:649][965]LogOutputDevice: Error: [Callstack] 0x000000007718C541 ntdll.dll!UnknownFunction []
+[2018.10.09-10.35.32:649][965]LogOutputDevice: Error: 
+[2018.10.09-10.35.32:654][965]LogStats:                SubmitErrorReport -  0.000 s
+[2018.10.09-10.35.33:536][965]LogStats:                    SendNewReport -  0.882 s
+[2018.10.09-10.35.33:536][965]LogStats:             FDebug::EnsureFailed -  1.354 s
+[2018.10.09-10.35.33:538][965]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: 
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 409]
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'p2' on node 'Get p2' not reciprocally linked with pin 'p2' on node 'OnCompare'
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: Stack: 
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000CD4C2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000CD26123A UE4Editor-Core.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000CD27B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000CAE7E5D3 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000CAE7E3F9 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000CAE7DD69 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000C866469F UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000C88376C9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000C864D3B3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000C639720D UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000C6396FEF UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000C6320FC1 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000C6325D26 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000D48D9636 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000D49183A0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000C72F1D7D UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000D48C63A1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000D489700E UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000D4898C16 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000D491988C UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000D490BEE8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000E623E28A UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000E6231A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000E62403EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000E622D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x0000000077079BD1 USER32.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000770798DA USER32.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x00000000E6241516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x000000003F8E50C8 UE4Editor.exe!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x000000003F8F5430 UE4Editor.exe!UnknownFunction []
+[2018.10.09-10.35.33:538][965]LogOutputDevice: Error: [Callstack] 0x000000003F8F54AA UE4Editor.exe!UnknownFunction []
+[2018.10.09-10.35.33:539][965]LogOutputDevice: Error: [Callstack] 0x000000003F902379 UE4Editor.exe!UnknownFunction []
+[2018.10.09-10.35.33:539][965]LogOutputDevice: Error: [Callstack] 0x000000003F903D57 UE4Editor.exe!UnknownFunction []
+[2018.10.09-10.35.33:539][965]LogOutputDevice: Error: [Callstack] 0x0000000076F559ED kernel32.dll!UnknownFunction []
+[2018.10.09-10.35.33:539][965]LogOutputDevice: Error: [Callstack] 0x000000007718C541 ntdll.dll!UnknownFunction []
+[2018.10.09-10.35.33:539][965]LogOutputDevice: Error: 
+[2018.10.09-10.35.33:546][965]LogStats:                SubmitErrorReport -  0.000 s
+[2018.10.09-10.35.33:726][965]LogStats:                    SendNewReport -  0.180 s
+[2018.10.09-10.35.33:726][965]LogStats:             FDebug::EnsureFailed -  0.189 s
+[2018.10.09-10.35.33:727][965]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2018.10.09-10.35.33:727][965]LogOutputDevice: Error: === Handled ensure: ===
+[2018.10.09-10.35.33:727][965]LogOutputDevice: Error: 
+[2018.10.09-10.35.33:727][965]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 409]
+[2018.10.09-10.35.33:727][965]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'A' on node 'integer > integer' not reciprocally linked with pin 'return' on node 'OnCompare'
+[2018.10.09-10.35.33:727][965]LogOutputDevice: Error: Stack: 
+[2018.10.09-10.35.33:727][965]LogOutputDevice: Error: [Callstack] 0x00000000CD4C2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.09-10.35.33:727][965]LogOutputDevice: Error: [Callstack] 0x00000000CD26123A UE4Editor-Core.dll!UnknownFunction []
+[2018.10.09-10.35.33:727][965]LogOutputDevice: Error: [Callstack] 0x00000000CD27B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.10.09-10.35.33:727][965]LogOutputDevice: Error: [Callstack] 0x00000000CAE7E5D3 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.09-10.35.33:727][965]LogOutputDevice: Error: [Callstack] 0x00000000CAE7E3F9 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.09-10.35.33:727][965]LogOutputDevice: Error: [Callstack] 0x00000000CAE7DD69 UE4Editor-Engine.dll!UnknownFunction []
+[2018.10.09-10.35.33:727][965]LogOutputDevice: Error: [Callstack] 0x00000000C866469F UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.09-10.35.33:727][965]LogOutputDevice: Error: [Callstack] 0x00000000C88376C9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.09-10.35.33:727][965]LogOutputDevice: Error: [Callstack] 0x00000000C864D3B3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.10.09-10.35.33:727][965]LogOutputDevice: Error: [Callstack] 0x00000000C639720D UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.09-10.35.33:727][965]LogOutputDevice: Error: [Callstack] 0x00000000C6396FEF UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.09-10.35.33:727][965]LogOutputDevice: Error: [Callstack] 0x00000000C6320FC1 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.09-10.35.33:727][965]LogOutputDevice: Error: [Callstack] 0x00000000C6325D26 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.10.09-10.35.33:727][965]LogOutputDevice: Error: [Callstack] 0x00000000D48D9636 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.09-10.35.33:727][965]LogOutputDevice: Error: [Callstack] 0x00000000D49183A0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.09-10.35.33:727][965]LogOutputDevice: Error: [Callstack] 0x00000000C72F1D7D UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.10.09-10.35.33:728][965]LogOutputDevice: Error: [Callstack] 0x00000000D48C63A1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.09-10.35.33:728][965]LogOutputDevice: Error: [Callstack] 0x00000000D489700E UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.09-10.35.33:728][965]LogOutputDevice: Error: [Callstack] 0x00000000D4898C16 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.09-10.35.33:728][965]LogOutputDevice: Error: [Callstack] 0x00000000D491988C UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.09-10.35.33:728][965]LogOutputDevice: Error: [Callstack] 0x00000000D490BEE8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.10.09-10.35.33:728][965]LogOutputDevice: Error: [Callstack] 0x00000000E623E28A UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.09-10.35.33:728][965]LogOutputDevice: Error: [Callstack] 0x00000000E6231A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.09-10.35.33:728][965]LogOutputDevice: Error: [Callstack] 0x00000000E62403EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.09-10.35.33:728][965]LogOutputDevice: Error: [Callstack] 0x00000000E622D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.09-10.35.33:728][965]LogOutputDevice: Error: [Callstack] 0x0000000077079BD1 USER32.dll!UnknownFunction []
+[2018.10.09-10.35.33:728][965]LogOutputDevice: Error: [Callstack] 0x00000000770798DA USER32.dll!UnknownFunction []
+[2018.10.09-10.35.33:728][965]LogOutputDevice: Error: [Callstack] 0x00000000E6241516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.10.09-10.35.33:728][965]LogOutputDevice: Error: [Callstack] 0x000000003F8E50C8 UE4Editor.exe!UnknownFunction []
+[2018.10.09-10.35.33:728][965]LogOutputDevice: Error: [Callstack] 0x000000003F8F5430 UE4Editor.exe!UnknownFunction []
+[2018.10.09-10.35.33:728][965]LogOutputDevice: Error: [Callstack] 0x000000003F8F54AA UE4Editor.exe!UnknownFunction []
+[2018.10.09-10.35.33:728][965]LogOutputDevice: Error: [Callstack] 0x000000003F902379 UE4Editor.exe!UnknownFunction []
+[2018.10.09-10.35.33:728][965]LogOutputDevice: Error: [Callstack] 0x000000003F903D57 UE4Editor.exe!UnknownFunction []
+[2018.10.09-10.35.33:728][965]LogOutputDevice: Error: [Callstack] 0x0000000076F559ED kernel32.dll!UnknownFunction []
+[2018.10.09-10.35.33:728][965]LogOutputDevice: Error: [Callstack] 0x000000007718C541 ntdll.dll!UnknownFunction []
+[2018.10.09-10.35.33:728][965]LogOutputDevice: Error: 
+[2018.10.09-10.35.33:733][965]LogStats:                SubmitErrorReport -  0.000 s
